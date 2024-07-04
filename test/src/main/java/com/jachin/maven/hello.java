@@ -8,5 +8,6 @@ public class hello {
 		System.out.println("Truck can carry  pounds.222");
 		System.out.println("Truck can carry  pounds.333");
 		System.out.println("Truck can carry  pounds.444");
+		System.out.println("Truck can carry  pounds.555");
 	}
 }
